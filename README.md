@@ -21,3 +21,5 @@ Use TextBlob to do a sentiment analysis
 Apply LDA technique to extract the topics of speeches. Load the topic distribution of each text and make individual time series plots
 ## app.py
 Use plotly and dash to create a web app to display the results of sentiment analysis and topic modeling
+## LDA_7.html
+This is a html file to visualize LDA using pyLDSvis
