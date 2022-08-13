@@ -17,4 +17,7 @@ This notebook is used to download data from the web https://www.americanrhetoric
 Use spaCy to preprocess the data for sentiment analysis and topic modeling. Save the preprocessed data as "obama_speech_preprocessed.csv"
 ## sentiment.ipynb
 Use TextBlob to do a sentiment analysis
-## 
+## LDA.ipynb
+Apply LDA technique to extract the topics of speeches. Load the topic distribution of each text and make individual time series plots
+## app.py
+Use plotly and dash to create a web app to display the results of sentiment analysis and topic modeling
