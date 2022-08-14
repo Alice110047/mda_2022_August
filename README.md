@@ -23,3 +23,5 @@ Apply LDA technique to extract the topics of speeches. Load the topic distributi
 Use plotly and dash to create a web app to display the results of sentiment analysis and topic modeling
 ## lda_7.html
 This is a html file to visualize LDA using pyLDSvis
+## requirements.txt
+Save a list of the modules and packages required
